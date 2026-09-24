@@ -27,6 +27,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className="bg-[#f3f0e9]">
       <head>
+        <meta name="yandex-verification" content="88f7c67a384a49da" />
         <meta name="yandex-verification" content="" />
         <meta name="format-detection" content="telephone=no" />
         <script
